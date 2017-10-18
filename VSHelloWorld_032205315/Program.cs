@@ -14,9 +14,7 @@ namespace VSHelloWorld_032205315
     {
         public static void Main(string[] args)
         {
-
-            //comentário de teste
-            //comentário dev
+            //Filipe Rosa Martins
             BuildWebHost(args).Run();
         }
 
